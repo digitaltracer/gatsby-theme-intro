@@ -1,18 +1,29 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+- name: Identity Management
+  description: Internal graph built from billions of observations of personal contact information used to deduce identity
   status: in progress
   tags:
-    - JavaScript
-    - Gatsby
+    - Scala
+    - Spark
+    - HBase
+    - React
   icon: github
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Data Pipeline
+  description: FullContact's batch enrichment and resolve pipeline.
   status: live
   tags:
-    - JavaScript
-    - HTML
+    - Scala
+    - Spark
+    - EMR
+    - Airflow
   icon: website
-  image: images/project.jpg
+
+- name: High scale web cralwer system
+  description: High scale web cralwer to gather publicly available information
+  status: live
+  tags:
+     - Python
+     - REST
+     - Redis
+     - MySQL
+  icon: website

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Personal page of Adarsh N B",
     locale: "en",
-    title: "John Doe",
+    title: "Adarsh N B",
   },
   plugins: [
     {

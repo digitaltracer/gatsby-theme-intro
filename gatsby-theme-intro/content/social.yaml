@@ -1,36 +1,8 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://www.linkedin.com/in/adarsh-nb-93104729/
 
 - name: twitter
-  url: https://twitter.com/username
-
-- name: facebook
-  url:
-
-- name: instagram
-  url:
-
-- name: dribbble
-  url:
-
-- name: behance
-  url:
-
-- name: producthunt
-  url:
+  url: https://twitter.com/adarshnb
 
 - name: github
-  url: https://github.com/username
-
-- name: goodreads
-  url:
-
-- name: xing
-  url:
-
-- name: youtube
-  url:
-
-- name: medium
-  url:
-
+  url: https://github.com/digitaltracer

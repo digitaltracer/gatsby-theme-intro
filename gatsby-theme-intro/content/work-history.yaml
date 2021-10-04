@@ -1,18 +1,24 @@
-- company: Atomic Studio
-  position: Senior Web Developer
-  period: January 2018 - present
-  url: https://atomic.studio
+- company: FullContact Inc
+  position: Principal Software Engineer
+  period: January 2021 - present
+  url: https://fullcontact.com
 
-- company: Atomic Studio
-  position: Web Developer
-  period: January 2014 - December 2017
-  url: https://atomic.studio
+- company: FullContact Inc
+  position: Team Lead, Data Pipeline
+  period: July 2018 - Dec 2020
+  url: https://fullcontact.com
 
-- company: WebConnect Agency
-  position: Junior Web Developer
-  period: November 2010 - December 2013
-  url:
+- company: FullContact Inc
+  position: Senior Software Engineer
+  period: September 2016 - June 2018
+  url: https://fullcontact.com
 
-- company: Freelance
-  position: Web Developer
-  period: April 2008 - October 2010
+- company: Profoundis (Acquired by FullContact)
+  position: Senior Product Engineer
+  period: January 2016 - September 2016
+  url: https://fullcontact.com
+
+- company: ZLemma Analytics Pvt. Ltd.
+  position: Algorithms Engineer
+  period: May 2014 - September 2015
+  url: https://zlemma.com

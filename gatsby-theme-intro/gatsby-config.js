@@ -6,11 +6,11 @@ module.exports = ({
 }) => {
   return {
     siteMetadata: {
-      description: "Personal page of John Doe",
+      description: "Personal page of Adarsh N B",
       locale: "en",
       showThemeLogo,
-      title: "John Doe",
-      formspreeEndpoint: "https://formspree.io/f/{your-id}",
+      title: "Adarsh N B",
+      formspreeEndpoint: "https://formspree.io/f/xdoyjgjn",
     },
     plugins: [
       {
