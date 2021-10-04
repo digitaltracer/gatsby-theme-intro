@@ -1,0 +1,29 @@
+- name: Identity Management
+  description: Internal graph built from billions of observations of personal contact information used to deduce identity
+  status: in progress
+  tags:
+    - Scala
+    - Spark
+    - HBase
+    - React
+  icon: github
+
+- name: Data Pipeline
+  description: FullContact's batch enrichment and resolve pipeline.
+  status: live
+  tags:
+    - Scala
+    - Spark
+    - EMR
+    - Airflow
+  icon: website
+
+- name: High scale web cralwer system
+  description: High scale web cralwer to gather publicly available information
+  status: live
+  tags:
+     - Python
+     - REST
+     - Redis
+     - MySQL
+  icon: website

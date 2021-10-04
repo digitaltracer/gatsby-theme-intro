@@ -1,0 +1,27 @@
+- profile:
+  initials: ANB
+  name: Adarsh N B
+  profession: Big data developer
+  image: images/profile.jpg
+  location: Bangalore, India
+  relocation: true
+  company: FullContact Inc.
+  for_hire: true
+  focus: Learning Graph Technology
+  focus_url: ""
+  about: |
+    I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.
+    Passionate about designing, reviewing and revising projects as it evolves. Experienced in building end to end scalable products
+  skills:
+    - Python
+    - Scala
+    - Java
+  tools:
+    - Django
+    - Spark
+    - Airflow
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
